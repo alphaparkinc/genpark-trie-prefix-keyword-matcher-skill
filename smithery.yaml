@@ -1,0 +1,7 @@
+name: genpark-trie-prefix-keyword-matcher-skill
+description: High-performance in-memory Trie and multi-keyword search engine for prompt routing and entity extraction
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
