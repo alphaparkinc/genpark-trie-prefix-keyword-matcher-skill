@@ -1,0 +1,11 @@
+{
+  "name": "genpark-trie-prefix-keyword-matcher-skill",
+  "version": "1.0.1",
+  "description": "High-performance in-memory Trie and multi-keyword search engine for prompt routing and entity extraction",
+  "tools": [
+    "insert_words",
+    "search_prefix",
+    "find_all_matches",
+    "get_trie_stats"
+  ]
+}
